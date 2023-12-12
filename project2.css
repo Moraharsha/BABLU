@@ -1,0 +1,32 @@
+
+*
+{
+    border: 1px solid black;
+
+}
+h1{
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+    margin: 20px;
+    padding: 50px;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    background: radial-gradient(blue,red,yellow,green,pink);
+   opacity: 0.5;
+}
+.menu li
+{
+   /* display: ;
+    visibility: ;*/
+
+   /* display: block ;by default it is block*/
+   display:  inline;
+   float:left
+
+}
+a
+{
+    background-color: aqua;
+}
+/* tag name,class name(.) , id name(#)  */
